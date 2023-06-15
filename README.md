@@ -7,7 +7,7 @@
 
 - run
   ```
-  git clone https://github.com/FahimAnzamDip/triangle-pos.git
+  git clone https://github.com/khairulInsan20/InventoPOS.git
   ```
 
 - run
@@ -62,11 +62,11 @@
 
 ## Demo
 
-![InventoPOS](public/images/Screenshot1.png)
-
 ![InventoPOS](public/images/Screenshot2.png)
 
 ![InventoPOS](public/images/Screenshot3.png)
+
+![InventoPOS](public/images/Screenshot1.png)
 
 ## Fitur InventoPOS
 
@@ -99,3 +99,4 @@
 # License
 
 **[Creative Commons Attribution 4.0	cc-by-4.0](https://creativecommons.org/licenses/by/4.0/)**
+> Only for learning purposes, if there are parties who feel aggrieved please contact khairulinsan248@gmail.com.
