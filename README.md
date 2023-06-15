@@ -62,11 +62,11 @@
 
 ## Demo
 
-![InventoPOS](public/images/screenshot1.png)
+![InventoPOS](public/images/Screenshot1.png)
 
-![InventoPOS](public/images/screenshot2.png)
+![InventoPOS](public/images/Screenshot2.png)
 
-![InventoPOS](public/images/screenshot3.png)
+![InventoPOS](public/images/Screenshot3.png)
 
 ## Fitur InventoPOS
 
