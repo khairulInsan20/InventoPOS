@@ -24,7 +24,7 @@
   ```
   npm run dev
   ```
-
+- buat database pada localhost
 - copy .env.example to .env
 
 - run
@@ -32,7 +32,7 @@
   php artisan key:generate
   ```
 
-- set up your database in the .env
+- atur database pada file .env
 
 - run
   ```
@@ -51,7 +51,7 @@
 
 - kemudian kunjungi
   ```
-  http://localhost:8000 or http://127.0.0.1:8000
+  http://127.0.0.1:8000
   ```
 
 
