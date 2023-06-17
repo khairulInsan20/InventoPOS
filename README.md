@@ -1,3 +1,11 @@
+# Anggota Kelompok:
+> Pengkodean dan Pemrograman - E
+> Universitas Diponegoro
+1. Khairul Insan Al Amin - 12030121130133
+2. Muhammad Ardian Al afarisi - 12030121140212
+3. Dhanis Daffa Pradana - 12030121140239
+4. Juventino Satrio Pendowo - 12030120170001
+
 # InventoPOS
 ![InventoPOS](public/images/logo-dark.png)
 
